@@ -1,0 +1,15 @@
+{
+	"name": "df-ucb-sisger10411877",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fd573067-0f5c-4b9c-b8d7-52922b07e358",
+		"tenantId": "cc28633f-12b8-46cb-bc15-951dae239b4d"
+	}
+}
